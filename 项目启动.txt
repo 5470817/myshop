@@ -1,0 +1,3 @@
+npm run server
+
+打开vue_shop_server后启动终端   nodemon ./app.js
